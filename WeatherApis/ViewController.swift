@@ -11,7 +11,6 @@ import RxCocoa
 
 class ViewController: UIViewController {
     
-    
     @IBOutlet weak var cityNameTextField: UITextField!
     @IBOutlet weak var tempatureLabel: UILabel!
     @IBOutlet weak var humidityLabel: UILabel!
